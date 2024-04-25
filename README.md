@@ -1,4 +1,4 @@
-
+![image](https://github.com/JAEKWANG97/JAEKWANG97/assets/65598179/28aa41d7-85ca-4f70-b053-668dd7101eca)
 <!--
 **JAEKWANG97/JAEKWANG97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
     
 <h3> 👨‍💻 PS Skill 👨‍💻</h3>
 <p align="center">
-    <a href="https://solved.ac/profile/rlaalswn1584">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalswn1584&cache=c">
+    <a href="https://solved.ac/profile/dbworhkd97">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbworhkd97&cache=c">
     </a>
         
 </p>
@@ -64,15 +64,15 @@ Here are some ideas to get you started:
 <h3>📊 Git Stats 📊</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-Kor&layout=donut&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=40% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEKWANG97&layout=donut&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=40% />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MJ-Kor&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=59% />
+  <img src="https://github-readme-stats.vercel.app/api?username=JAEKWANG97&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=59% />
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJ-Kor&theme=react-dark&bg_color=000000&hide_border=true&line=ffb000&title_color=ffb000&color=ffffff&count_private=true" width=99%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAEKWANG97&theme=react-dark&bg_color=000000&hide_border=true&line=ffb000&title_color=ffb000&color=ffffff&count_private=true" width=99%/>
 </a>
 <br>
 
