@@ -1,4 +1,3 @@
-![image](https://github.com/JAEKWANG97/JAEKWANG97/assets/65598179/28aa41d7-85ca-4f70-b053-668dd7101eca)
 <!--
 **JAEKWANG97/JAEKWANG97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
