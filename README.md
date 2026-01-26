@@ -35,7 +35,7 @@ Focused on scalable architecture, automation, and reliability.
 ## Experience
 
 ### Technical Coach | SSAFY (Samsung Software Academy For Youth)
-Mar 2025 – Present
+Mar 2024.12 – 2025.12
 
 - Mentored 40+ project teams on architecture design and code quality
 - Led code reviews and technical troubleshooting
