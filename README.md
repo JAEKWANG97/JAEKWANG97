@@ -6,7 +6,7 @@ Spring · AWS · Kafka · Spark · LLM · DevOps
 I design and build systems, not just features.  
 Focused on scalable architecture, automation, and reliability.
 
-📧 your-email@gmail.com | 🔗 Blog | 🔗 LinkedIn
+📧 marmong9770@gmail.com | 🔗 Blog | 🔗 LinkedIn https://www.linkedin.com/in/devjae/
 
 ---
 
