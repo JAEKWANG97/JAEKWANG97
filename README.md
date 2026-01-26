@@ -1,78 +1,212 @@
-<!--
-**JAEKWANG97/JAEKWANG97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 유재광 | Backend · Cloud · AI Engineer
 
-Here are some ideas to get you started:
+Backend / Cloud / Infra Engineer  
+Spring · AWS · Kafka · Spark · LLM · DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-    
-<h3>🛠 Tech Stacks 🛠</h3>
+서비스를 구현하는 개발자가 아니라  
+**시스템을 설계하고 구조화하는 엔지니어**입니다.
 
-| **비교적 능숙해요**                 | <img src="https://img.shields.io/badge/Java-DA291C?style=for-the-badge&logo=OpenJDK&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-1dd1a1?style=for-the-badge&logo=MyBatis&logoColor=black"/>|
-|:---:|:---:|
-| **공식 문서를 보고 기능을 구현해요**  |     <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=black"/> |
-| **사용해본 적 있어요**               | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"/> <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.Js&logoColor=black"/> |                                                                                
-<p>
-<!--     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp -->
-<!--     <br>
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/MyBatis-1dd1a1?style=for-the-badge&logo=MyBatis&logoColor=black"/></a>&nbsp  -->
-    <br>
-<!--     <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=black"/></a>&nbsp  -->
-<!--     <br>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>&nbsp  -->
-    <br>
-    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp 
-    <br>
-    <img src="https://img.shields.io/badge/linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp
-    <img src="https://img.shields.io/badge/windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white"/></a>&nbsp
-</p>
-<br>
+📧 your-email@gmail.com | 🔗 Blog | 🔗 LinkedIn
 
-    
-<h3> 👨‍💻 PS Skill 👨‍💻</h3>
-<p align="center">
-    <a href="https://solved.ac/profile/dbworhkd97">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbworhkd97&cache=c">
-    </a>
-        
-</p>
-<br>
+---
 
+## 🔹 Core Competencies
 
-<h3>📊 Git Stats 📊</h3>
+### Backend
+- Spring Boot · FastAPI 기반 API 서버 End-to-End 설계/구축
+- RESTful API 설계, 인증/인가, 비동기 처리 아키텍처
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEKWANG97&layout=donut&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=40% />
-</a>
+### Cloud / DevOps
+- AWS EC2 · S3 · SQS 인프라 직접 구축/운영
+- Docker · GitHub Actions · Jenkins CI/CD 자동화
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAEKWANG97&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width=59% />
-</a>
+### Data / Streaming
+- Kafka · Spark · Hadoop 데이터 파이프라인 설계
+- Worker 병렬 처리 기반 이벤트 드리븐 시스템
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAEKWANG97&theme=react-dark&bg_color=000000&hide_border=true&line=ffb000&title_color=ffb000&color=ffffff&count_private=true" width=99%/>
-</a>
-<br>
+### Leadership
+- SSAFY 실습 코치 (40+ 팀 / 200+ 교육생 멘토링)
 
+---
 
+## 🔹 Experience
 
-</div>
+### SSAFY 실습 코치 | 2025.03 ~ 현재
+기업연계 프로젝트 기술 멘토
+
+- 40+ 팀 아키텍처 설계 및 코드 리뷰
+- Jira 기반 협업/스프린트 프로세스 정립
+- 배포/CI/CD/인프라 실무 가이드 제공
+- 공통 아키텍처 개선 및 생산성 향상
+
+---
+
+### Data Pipeline & Infra 구축
+
+- Kafka → Spark → HDFS/DB → API Server 아키텍처 설계
+- Worker 병렬 처리 기반 비동기 데이터 처리 시스템 구축
+- Docker 컨테이너화 및 자동 배포 환경 구성
+- 확장성과 안정성을 고려한 서버 운영 경험
+
+---
+
+## 🔹 Projects
+
+### Soup — AI 트렌드 뉴스 요약 메일링
+- SQS Worker 기반 분산 처리 아키텍처
+- 뉴스 수집/요약/메일 발송 자동화
+- 수동 작업 시간 90% 이상 감소  
+`Spring Boot · AWS SQS · Docker · LLM API`
+
+---
+
+### E.D.I.T.H — AI 코드 리뷰 자동화 도구
+- GitHub Webhook 기반 자동 코드 분석/요약/문서화
+- GPT 기반 리뷰 피드백 및 리팩토링 제안  
+`FastAPI · Python · OpenAI · GitHub API`
+
+---
+
+### HAI-Stock — 멀티 에이전트 투자 분석 시스템
+- Risk/Bull/Analyzer 역할 분리 멀티 Agent 구조
+- 병렬 분석 + SSE 실시간 스트리밍  
+`FastAPI · LangChain · Async · LLM`
+
+---
+
+### 여행한담 — 여행 일정 추천 커뮤니티
+- 추천 시스템 기반 일정 생성
+- WebSocket 실시간 채팅/피드  
+`Spring · WebSocket`
+
+---
+
+## 🔹 Open Source
+
+### Armeria Contributor
+Custom Athenz Token Header 기능 PR
+
+- 기존 인증 구조와 호환성 유지한 확장 설계
+- 테스트 코드 및 문서 포함 기여
+
+PR → https://github.com/line/armeria/pull/6604
+
+---
+
+## 🔹 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=JAEKWANG97&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEKWANG97&layout=compact)
+
+---
+
+## 🔹 Career Goal
+
+확장성과 안정성을 고려해  
+**아키텍처를 설계하는 백엔드/클라우드 엔지니어**로 성장하고 있습니다.
+# 유재광 | Backend · Cloud · AI Engineer
+
+Backend / Cloud / Infra Engineer  
+Spring · AWS · Kafka · Spark · LLM · DevOps
+
+서비스를 구현하는 개발자가 아니라  
+**시스템을 설계하고 구조화하는 엔지니어**입니다.
+
+📧 your-email@gmail.com | 🔗 Blog | 🔗 LinkedIn
+
+---
+
+## 🔹 Core Competencies
+
+### Backend
+- Spring Boot · FastAPI 기반 API 서버 End-to-End 설계/구축
+- RESTful API 설계, 인증/인가, 비동기 처리 아키텍처
+
+### Cloud / DevOps
+- AWS EC2 · S3 · SQS 인프라 직접 구축/운영
+- Docker · GitHub Actions · Jenkins CI/CD 자동화
+
+### Data / Streaming
+- Kafka · Spark · Hadoop 데이터 파이프라인 설계
+- Worker 병렬 처리 기반 이벤트 드리븐 시스템
+
+### Leadership
+- SSAFY 실습 코치 (40+ 팀 / 200+ 교육생 멘토링)
+
+---
+
+## 🔹 Experience
+
+### SSAFY 실습 코치 | 2025.03 ~ 현재
+기업연계 프로젝트 기술 멘토
+
+- 40+ 팀 아키텍처 설계 및 코드 리뷰
+- Jira 기반 협업/스프린트 프로세스 정립
+- 배포/CI/CD/인프라 실무 가이드 제공
+- 공통 아키텍처 개선 및 생산성 향상
+
+---
+
+### Data Pipeline & Infra 구축
+
+- Kafka → Spark → HDFS/DB → API Server 아키텍처 설계
+- Worker 병렬 처리 기반 비동기 데이터 처리 시스템 구축
+- Docker 컨테이너화 및 자동 배포 환경 구성
+- 확장성과 안정성을 고려한 서버 운영 경험
+
+---
+
+## 🔹 Projects
+
+### Soup — AI 트렌드 뉴스 요약 메일링
+- SQS Worker 기반 분산 처리 아키텍처
+- 뉴스 수집/요약/메일 발송 자동화
+- 수동 작업 시간 90% 이상 감소  
+`Spring Boot · AWS SQS · Docker · LLM API`
+
+---
+
+### E.D.I.T.H — AI 코드 리뷰 자동화 도구
+- GitHub Webhook 기반 자동 코드 분석/요약/문서화
+- GPT 기반 리뷰 피드백 및 리팩토링 제안  
+`FastAPI · Python · OpenAI · GitHub API`
+
+---
+
+### HAI-Stock — 멀티 에이전트 투자 분석 시스템
+- Risk/Bull/Analyzer 역할 분리 멀티 Agent 구조
+- 병렬 분석 + SSE 실시간 스트리밍  
+`FastAPI · LangChain · Async · LLM`
+
+---
+
+### 여행한담 — 여행 일정 추천 커뮤니티
+- 추천 시스템 기반 일정 생성
+- WebSocket 실시간 채팅/피드  
+`Spring · WebSocket`
+
+---
+
+## 🔹 Open Source
+
+### Armeria Contributor
+Custom Athenz Token Header 기능 PR
+
+- 기존 인증 구조와 호환성 유지한 확장 설계
+- 테스트 코드 및 문서 포함 기여
+
+PR → https://github.com/line/armeria/pull/6604
+
+---
+
+## 🔹 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=JAEKWANG97&show_icons=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEKWANG97&layout=compact)
+
+---
+
+## 🔹 Career Goal
+
+확장성과 안정성을 고려해  
+**아키텍처를 설계하는 백엔드/클라우드 엔지니어**로 성장하고 있습니다.
