@@ -1,7 +1,6 @@
 # Jaegwang Yoo
 
-> **Backend & Cloud Engineer** specializing in Scalable Architecture & AI Integration.  
-> *Designing systems, not just features.*
+> Automation starts with a single line, but endures through Abstraction & Structure.
 
 [![Email](https://img.shields.io/badge/Email-marmong9770%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marmong9770@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaegwang%20Yoo-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devjae/)
