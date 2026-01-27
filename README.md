@@ -14,7 +14,7 @@
 |:---:|:---|
 | **Backend** | **Spring Boot**, FastAPI, JPA/QueryDSL, Java, Python |
 | **Cloud & Infra** | **AWS (EC2, S3, SQS)**, Docker, Docker-Compose |
-| **DevOps** | **GitHub Actions**, Jenkins, CI/CD Pipelines |
+| **DevOps** | **Jenkins**, GitHub Actions, CI/CD Pipelines |
 | **Architecture** | **Kafka**, Event-Driven, MSA, Multi-Agent System, **RAG** |
 
 ---
