@@ -53,7 +53,7 @@
 [👉 Github Repository](https://github.com/JeonGukGu)
 * **Role-based Multi-Agent Architecture**: Risk/Bull/Analyzer 에이전트 설계.
 * **Tech**: `FastAPI` `LangChain` `Async/Await` `SSE`
-    * LangChain/LLM을 활용한 투자 성향별 주식 분석 및 리포트 자동화.
+    * Google ADK 기반 Multi-Agent 구현.
     * FastAPI 비동기(Async) 처리를 통한 대용량 데이터 처리 효율 극대화.
     * **SSE(Server-Sent Events)** 적용으로 분석 현황 실시간 스트리밍 구현.
 
