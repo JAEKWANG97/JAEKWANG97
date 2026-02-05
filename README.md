@@ -49,16 +49,8 @@
 
 ## 🚀 Key Projects
 
-### **HAI-Stock** | *Multi-Agent Investment Analysis System*
-[👉 Github Repository](https://github.com/JeonGukGu)
-* **Role-based Multi-Agent Architecture**: Risk/Bull/Analyzer 에이전트 설계.
-* **Tech**: `FastAPI` `LangChain` `Async/Await` `SSE`
-    * Google ADK 기반 Multi-Agent 구현.
-    * FastAPI 비동기(Async) 처리를 통한 대용량 데이터 처리 효율 극대화.
-    * **SSE(Server-Sent Events)** 적용으로 분석 현황 실시간 스트리밍 구현.
-
 ### **E.D.I.T.H** | *AI Code Review & Documentation Assistant*
-[👉 Github Repository](Your_Link_Here)
+[👉 Github Repository](https://github.com/JAEKWANG97/E.D.I.T.H)
 * **Automated Code Review Pipeline**: GitHub Webhook → Analysis → Comment.
 * **Tech**: `RAG` `Vector DB` `Python` `GitHub API`
     * 변경된 코드를 분석하여 개선안을 자동으로 코멘트 등록 (Webhook 트리거).
@@ -66,7 +58,7 @@
     * 전체 Commit 내역 기반 기여도 및 변경 사항 자동 요약 기능 구현.
 
 ### **Soup** | *AI-powered Trend Newsletter Platform*
-[👉 Github Repository](Your_Link_Here)
+[👉 Github Repository](https://github.com/orgs/pal-lang-gwi/repositories)
 * **Distributed System with AWS SQS**: Fault-tolerant message processing.
 * **Tech**: `Spring Boot` `AWS SQS` `Docker` `Worker Pattern`
     * `크롤링 → 요약 → 메일 발송` 과정을 워커(Worker) 패턴으로 분리하여 결합도 감소.
