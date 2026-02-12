@@ -81,7 +81,7 @@
 
 ## 🏅 Certifications & Awards
 
-* **Profirlab 해커톤 우수상 (2nd Place)** | *2025.12*
+* **Profitlab 해커톤 우수상 (2nd Place)** | *2025.12*
 * **정보처리기사 (Engineer Information Processing)** | *HRDK (2024.12)*
 * **Samsung SW Competency Test - Level B** | *Samsung (2024.08)*
-* **패스트캠퍼스 빌더톤 본선 진출** | *2026.01 (In Progress)*
+* **패스트캠퍼스 빌더톤 본선 진출** | *2026.01*
