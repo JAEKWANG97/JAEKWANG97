@@ -10,12 +10,17 @@
 
 ## 🛠 Tech Stack
 
+기존 양식(테이블 형식, 볼드 처리 방식)을 유지하면서 AI 카테고리를 추가한 버전이에요.
+
+## 🛠 Tech Stack
+
 | Category | Skills |
 |:---:|:---|
 | **Backend** | **Spring Boot**, FastAPI, JPA/QueryDSL, Java, Python |
+| **AI** | **RAG**, Multi-Agent System, LangChain, Vector DB(Milvus) |
 | **Cloud & Infra** | **AWS (EC2, S3, SQS)**, Docker, Docker-Compose |
 | **DevOps** | **Jenkins**, GitHub Actions, CI/CD Pipelines |
-| **Architecture** | **Kafka**, Event-Driven, MSA, Multi-Agent System, **RAG** |
+| **Architecture** | **Kafka**, Event-Driven, MSA |
 
 ---
 
