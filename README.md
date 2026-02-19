@@ -1,4 +1,4 @@
-# Jaegwang Yoo
+### Jaegwang Yoo
 
 > Automation starts with a single line, but endures through Abstraction & Structure.
 
@@ -8,11 +8,7 @@
 
 ---
 
-## 🛠 Tech Stack
-
-기존 양식(테이블 형식, 볼드 처리 방식)을 유지하면서 AI 카테고리를 추가한 버전이에요.
-
-## 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 | Category | Skills |
 |:---:|:---|
@@ -24,9 +20,9 @@
 
 ---
 
-## 💼 Experience
+#### 💼 Experience
 
-### **SSAFY (Samsung Software Academy For Youth)**
+###### **SSAFY (Samsung Software Academy For Youth)**
 **Technical Coach (실습 코치)** | *2024.12 ~ 2025.12*
 
 > 40여 개 팀(200명+)의 엔지니어링 멘토링 및 아키텍처 리뷰 주도
@@ -40,9 +36,9 @@
 
 ---
 
-## 🏆 Open Source Contribution
+#### 🏆 Open Source Contribution
 
-### **[LINE Corp] Armeria**
+###### **[LINE Corp] Armeria**
 **Contributor** | [PR #6604](https://github.com/line/armeria/pull/6604)
 
 * **Implemented `Custom Athenz Token Header` Support**
@@ -52,9 +48,9 @@
 
 ---
 
-## 🚀 Key Projects
+#### 🚀 Key Projects
 
-### **E.D.I.T.H** | *AI Code Review & Documentation Assistant*
+##### **E.D.I.T.H** | *AI Code Review & Documentation Assistant*
 [👉 Github Repository](https://github.com/JAEKWANG97/E.D.I.T.H)
 * **Automated Code Review Pipeline**: GitHub Webhook → Analysis → Comment.
 * **Tech**: `RAG` `Vector DB` `Python` `GitHub API`
@@ -62,7 +58,7 @@
     * **RAG & Vector DB**를 활용해 프로젝트 컨텍스트를 유지하는 리뷰 시스템 구축.
     * 전체 Commit 내역 기반 기여도 및 변경 사항 자동 요약 기능 구현.
 
-### **Soup** | *AI-powered Trend Newsletter Platform*
+##### **Soup** | *AI-powered Trend Newsletter Platform*
 [👉 Github Repository](https://github.com/orgs/pal-lang-gwi/repositories)
 * **Distributed System with AWS SQS**: Fault-tolerant message processing.
 * **Tech**: `Spring Boot` `AWS SQS` `Docker` `Worker Pattern`
@@ -71,20 +67,20 @@
 
 ---
 
-## 🎓 Education
+#### 🎓 Education
 
-### **SSAFY (Samsung Software Academy For Youth)**
+##### **SSAFY (Samsung Software Academy For Youth)**
 *Java Track* | *2024.01 ~ 2024.12*
 * **Awards**: 2학기 자율 프로젝트 **최우수상(1위)**, 자치회 공로상.
 * **Coursework**: 알고리즘 심화(A형/B형 취득), 웹 개발 심화 과정 수료.
 
-### **B.S. in Computer Science**
+##### **B.S. in Computer Science**
 *University in South Korea*
 * Computer Science Fundamentals (OS, Network, Data Structure).
 
 ---
 
-## 🏅 Certifications & Awards
+#### 🏅 Certifications & Awards
 
 * **Profitlab 해커톤 우수상 (2nd Place)** | *2025.12*
 * **정보처리기사 (Engineer Information Processing)** | *HRDK (2024.12)*
