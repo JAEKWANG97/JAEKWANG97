@@ -1,4 +1,4 @@
-### Jaegwang Yoo
+### Jaegwang Yu
 
 > Automation starts with a single line, but endures through Abstraction & Structure.
 
