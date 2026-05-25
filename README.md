@@ -1,122 +1,104 @@
-### Jaegwang Yu
+## Jaegwang Yu
 
-> Backend engineer focused on reliable systems and pragmatic architecture.  
-> Experienced in building event-driven backend services and contributing to large-scale open source.
+Backend Engineer focused on Java/Spring services, event-driven systems, and AI-assisted developer tooling.
 
-[![Email](https://img.shields.io/badge/Email-marmong9770%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marmong9770@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaegwang%20Yoo-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devjae/)
-[![GitHub](https://img.shields.io/badge/GitHub-JAEKWANG97-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JAEKWANG97)
+[![Email](https://img.shields.io/badge/Email-marmong9770%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marmong9770@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaegwang%20Yu-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devjae/) [![GitHub](https://img.shields.io/badge/GitHub-JAEKWANG97-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JAEKWANG97)
 
 ---
 
-#### Summary
+### About
 
-Backend engineer focused on building reliable and scalable systems through pragmatic architecture.
-
-Contributor to the LINE Armeria open-source project and speaker at a paid developer conference on open-source contributions.
-
-Technical Coach at SSAFY mentoring 200+ developers on backend architecture, CI/CD practices, and distributed system design.
-
----
-
-#### 🏆 Open Source Contribution
-
-###### **[LINE Corp] Armeria**
-**Contributor** | [PR #6604](https://github.com/line/armeria/pull/6604)
-
-* **Implemented `Custom Athenz Token Header` Support**
-    * Added configurable **Athenz authentication header support** for Armeria clients.
-    * Designed API changes while maintaining **backward compatibility with existing clients**.
-    * Implemented tests and documentation to ensure **production-level stability**.
-    * Collaborated with global maintainers through multiple review iterations in a **large-scale open-source workflow**.
+- Backend engineer interested in building reliable service flows with clear boundaries between user requests, background jobs, and data pipelines.
+- Technical Coach at SSAFY, mentoring 40+ teams and 200+ developers on backend architecture, CI/CD, database design, and system troubleshooting.
+- Open-source contributor to LINE Armeria and Apache SeaTunnel, with production-oriented changes merged through maintainer review.
+- Currently sharpening backend depth around Java/Spring, event-driven architecture, search/recommendation systems, and RAG-based developer tools.
 
 ---
 
-#### 🎤 Conference Talk
+### Open Source
 
-###### **Open Source Contribution to Armeria**
-**Speaker — Paid Developer Conference**
-
-* Delivered a technical talk on the **full lifecycle of contributing to the Armeria open-source project**.
-* Covered issue discovery, architecture analysis, design discussion with maintainers, and AI-assisted implementation.
-* Shared practical insights on **first-time open-source contributions and large-scale OSS collaboration**.
-
----
-
-#### 💼 Experience
-
-###### **SSAFY (Samsung Software Academy For Youth)**
-**Technical Coach (실습 코치)** | *2024.12 ~ Present*
-
-> Mentored **40+ teams (200+ developers)** on backend engineering and system architecture.
-
-* **Architecture & Code Quality**
-    * Provided technical consulting on **MSA architecture, database schema design, and API specifications**.
-    * Guided teams in diagnosing and resolving **concurrency issues in distributed systems**.
-* **DevOps & Development Process**
-    * Introduced CI/CD best practices using **Jenkins and GitHub Actions**.
-    * Helped teams adopt **Agile workflows using Jira sprint management**.
+| Project | Contribution | PR |
+|:---|:---|:---:|
+| LINE Armeria | Added support for custom Athenz token headers while preserving existing authentication behavior. | [#6604](https://github.com/line/armeria/pull/6604) |
+| LINE Armeria | Added `FlagsProvider`-based default `ClientFactory` customization while keeping lifecycle behavior unchanged. | [#6671](https://github.com/line/armeria/pull/6671) |
+| Apache SeaTunnel | Fixed Doris sink retry backoff and scheduler leak behavior during Doris BE failures. | [#10772](https://github.com/apache/seatunnel/pull/10772) |
 
 ---
 
-#### 🚀 Key Projects
+### Projects
 
-##### **E.D.I.T.H** | *AI Code Review & Documentation Assistant*
-[👉 Github Repository](https://github.com/JAEKWANG97/E.D.I.T.H)
+#### Trip Handam - Travel Recommendation Platform
 
-* **Automated Code Review Pipeline**: GitHub Webhook → Code Analysis → Review Comment  
-* **Tech**: `Python` `LangChain` `RAG` `Vector DB` `GitHub API`
+[GitHub Repository](https://github.com/JAEKWANG97/Trip_Handam)
 
-* Built an automated code review pipeline triggered by **GitHub Webhooks**.
-* Implemented a **RAG-based review system** using vector search to maintain project context.
-* Generated **commit-level summaries and automated improvement suggestions**.
+- Built a travel platform with personalized destination recommendations, trip planning, and social features.
+- Separated user-facing request handling from recommendation analysis by publishing like events through Kafka.
+- Used Elasticsearch for search, Redis for recommendation caching, and batch analysis for refreshing recommendation results.
+- Tech: `Java`, `Spring Boot`, `Kafka`, `Elasticsearch`, `Redis`, `Spark`, `Hadoop HDFS`, `MySQL`, `Docker`, `Jenkins`
 
----
+#### E.D.I.T.H - AI Code Review & Documentation Assistant
 
-##### **Soup** | *AI-powered Trend Newsletter Platform*
-[👉 Github Repository](https://github.com/orgs/pal-lang-gwi/repositories)
+[GitHub Repository](https://github.com/JAEKWANG97/E.D.I.T.H)
 
-* **Distributed message processing using AWS SQS**  
-* **Tech**: `Spring Boot` `AWS SQS` `Docker` `Worker Pattern`
+- Built a GitLab MR event-based automated code review system and portfolio documentation assistant.
+- Designed the RAG review flow so changed code can be reviewed with related project context rather than isolated diffs only.
+- Connected webhook events, code analysis, vector retrieval, and review comment generation into an automated review pipeline.
+- Awarded 1st place in the SSAFY autonomous project track.
+- Tech: `Python`, `LangChain`, `RAG`, `Vector DB`, `GitLab API`, `FastAPI`
 
-* Designed a **worker-based distributed architecture** separating crawling, summarization, and email delivery.
-* Introduced asynchronous message pipelines to handle **large-scale email workloads**.
-* Reduced system coupling by separating background tasks through a **message-driven architecture**.
+#### Soup - Interest-based Trend Newsletter Platform
 
----
+[Backend Repository](https://github.com/pal-lang-gwi/soup-backend)
 
-#### 🛠 Skills
-
-| Category | Skills |
-|:---:|:---|
-| **Backend** | **Spring Boot**, FastAPI, JPA, QueryDSL, Java, Python |
-| **AI / Data** | **RAG**, LangChain, Multi-Agent Systems, Vector DB (Milvus) |
-| **Cloud & Infra** | **AWS (EC2, S3, SQS)**, Docker, Docker Compose |
-| **DevOps** | **Jenkins**, GitHub Actions, CI/CD Pipelines |
-| **Architecture** | **Kafka**, Event-Driven Architecture, Microservices |
+- Built an AI-powered newsletter platform that collects, summarizes, and delivers trend content by user interests.
+- Designed a worker-based pipeline that separates crawling, summarization, and email delivery from the API server.
+- Migrated backend and worker flow toward Redis Streams-based asynchronous processing and home-server deployment.
+- Improved operational reliability around backend deployment, health checks, REST Docs, and admin filtering.
+- Tech: `Java`, `Spring Boot`, `Redis Streams`, `Docker`, `GitHub Actions`, `REST Docs`
 
 ---
 
-#### 🎓 Education
+### Experience
 
-##### **SSAFY (Samsung Software Academy For Youth)**
-*Java Track* | *2024.01 ~ 2024.12*
+#### SSAFY (Samsung Software Academy For Youth)
 
-* **Awards**: Capstone Project **1st Place**, Community Leadership Award
-* **Coursework**: Advanced Algorithms, Backend Web Development
+**Technical Coach (실습 코치)** | 2024.12 - Present
 
----
-
-##### **B.S. in Computer Science**
-*University in South Korea*
-
-* Coursework: Operating Systems, Computer Networks, Data Structures
+- Mentored 40+ project teams on backend architecture, API design, database schema design, and code quality.
+- Guided teams through issues in distributed systems, concurrency, CI/CD pipelines, and deployment workflows.
+- Introduced practical development processes using Jira, GitHub Actions, Jenkins, and review-based iteration.
 
 ---
 
-#### 🏅 Certifications & Awards
+### Skills
 
-* **Profitlab Hackathon — 2nd Place**
-* **Engineer Information Processing (정보처리기사)**
-* **Samsung SW Competency Test — Level B**
-* **FastCampus Builderthon — Finalist**
+| Area | Stack |
+|:---|:---|
+| Backend | Java, Spring Boot, JPA, QueryDSL, FastAPI, Python |
+| Data Flow | Kafka, Redis Streams, AWS SQS, Spark, Hadoop HDFS |
+| Search / AI | Elasticsearch, RAG, LangChain, Vector DB |
+| Cloud / Infra | AWS EC2, AWS S3, Docker, Docker Compose |
+| DevOps | GitHub Actions, Jenkins, CI/CD, REST Docs |
+| Architecture | Event-driven Architecture, Microservices, Worker Pattern |
+
+---
+
+### Education & Awards
+
+#### SSAFY (Samsung Software Academy For Youth)
+
+**Java Track** | 2024.01 - 2024.12
+
+- Awards: Capstone Project 1st Place, Community Leadership Award
+- Coursework: Algorithms, Java, Spring Backend Development
+
+#### B.S. in Computer Science
+
+University in South Korea
+
+#### Certifications & Awards
+
+- Profitlab Hackathon - 2nd Place
+- Engineer Information Processing (정보처리기사)
+- Samsung SW Competency Test - Level B
+- FastCampus Builderthon - Finalist
