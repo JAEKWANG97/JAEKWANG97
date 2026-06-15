@@ -21,6 +21,7 @@ Backend Engineer focused on Java/Spring services, event-driven systems, and AI-a
 | LINE Armeria | Added support for custom Athenz token headers while preserving existing authentication behavior. | [#6604](https://github.com/line/armeria/pull/6604) |
 | LINE Armeria | Added `FlagsProvider`-based default `ClientFactory` customization while keeping lifecycle behavior unchanged. | [#6671](https://github.com/line/armeria/pull/6671) |
 | Apache SeaTunnel | Fixed Doris sink retry backoff and scheduler leak behavior during Doris BE failures. | [#10772](https://github.com/apache/seatunnel/pull/10772) |
+https://github.com/apache/seatunnel/pull/10935
 
 ---
 
