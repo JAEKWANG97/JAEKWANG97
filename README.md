@@ -11,7 +11,6 @@ Backend Engineer focused on Java/Spring services, event-driven systems, and AI-a
 - Backend engineer interested in building reliable service flows with clear boundaries between user requests, background jobs, and data pipelines.
 - Technical Coach at SSAFY, mentoring 40+ teams and 200+ developers on backend architecture, CI/CD, database design, and system troubleshooting.
 - Open-source contributor to LINE Armeria and Apache SeaTunnel, with production-oriented changes merged through maintainer review.
-- Currently sharpening backend depth around Java/Spring, event-driven architecture, search/recommendation systems, and RAG-based developer tools.
 
 ---
 
